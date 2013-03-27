@@ -6,3 +6,5 @@ Flipboard Flipit unofficial extension for Chrome.  This extension basically take
 #Installation
 
 Just copy this folder somewhere on your computer.  Then with developer mode enabled in Google Chrome, browse to your extensions and choose "Load unpacked extension."  Done.
+
+![Flipit](https://dl.dropbox.com/s/5ld92rmz2ujzopi/Screen_Shot_2013-03-27_at_9.06.59_AM_2x.png)
